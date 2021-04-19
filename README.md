@@ -12,6 +12,11 @@ A intenção do script é consolidar os conhecimentos adquiridos sobre requisiç
 Requests.
 
 ******************
+Imagem do console:
+
+<p style="text-align:center;"><img src="https://github.com/igorzs/Requisicoes-HTTP-Python/blob/master/Imagens%20do%20projeto/terminal-python.png" ></p>
+
+******************
 Autor: 
 
 Igor Zollim Silveira, estudante de Análise e Desenvolvimento de Sistemas, IFRS, Brasil.
